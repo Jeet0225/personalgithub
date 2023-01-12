@@ -1,3 +1,21 @@
+# My Portfolio
+
+![Screenshot_20230112_203924](https://user-images.githubusercontent.com/95633934/212105301-98032707-1baf-4f47-a52e-23d5d564a0e1.png)
+
+## Contact
+
+![Screenshot_20230112_204003](https://user-images.githubusercontent.com/95633934/212125747-b805955a-519c-426d-a381-a066d005ce05.png)
+
+## Experience
+
+![Screenshot_20230112_204046](https://user-images.githubusercontent.com/95633934/212126001-4a06c306-cfbc-4e4a-bc1b-6ef972f52be5.png)
+
+## Skills
+
+![Screenshot_20230112_204119](https://user-images.githubusercontent.com/95633934/212126057-b37cca5a-3d5c-4ef8-937f-6275e69c65fa.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
